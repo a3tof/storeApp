@@ -38,6 +38,7 @@ dependencies:
   dio: ^5.5.0+1
   http: ^1.2.1
   font_awesome_flutter: ^10.7.0
+  modal_progress_hud_nsn: ^0.5.1
 
 dev_dependencies:
   flutter_test:
